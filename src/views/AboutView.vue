@@ -1,6 +1,8 @@
 <template>
   <div class="about">
-    <video style="width: 500px;" src="../assets/test.mp4" />
+    <video controls style="width: 500px;">
+      <source src="../assets/test.mp4" type="video/mp4" />
+    </video>
   </div>
 </template>
 

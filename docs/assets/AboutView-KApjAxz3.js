@@ -1,0 +1,1 @@
+import{_ as t,o,c as s,a as e}from"./index-DwmV8phI.js";const c=""+new URL("test-DPnFHxbL.mp4",import.meta.url).href,r={},n={class:"about"},_=e("video",{controls:"",style:{width:"500px"}},[e("source",{src:c,type:"video/mp4"})],-1),a=[_];function i(d,p){return o(),s("div",n,a)}const l=t(r,[["render",i]]);export{l as default};
