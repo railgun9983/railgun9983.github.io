@@ -1,8 +1,12 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <video style="width: 500px;" src="../assets/test.mp4" />
   </div>
 </template>
+
+<script>
+
+</script>
 
 <style>
 @media (min-width: 1024px) {
